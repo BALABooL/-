@@ -240,11 +240,11 @@ p {
   
 } */
 /* НЕ РАБОТАЕТ! */
-a.services__item:hover .sevices__content-item {
+.services__item:hover .services__content-item {
   opacity: 1;
 }
 
-.services__item:hover .sevices__content::after {
+.services__item:hover .services__content::after {
   opacity: .7;
 }
 /* НЕ РАБОТАЕТ! */
