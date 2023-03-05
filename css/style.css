@@ -239,7 +239,6 @@ p {
 .services__item {
   
 } */
-/* НЕ РАБОТАЕТ! */
 .services__item:hover .services__content-item {
   opacity: 1;
 }
@@ -247,7 +246,6 @@ p {
 .services__item:hover .services__content::after {
   opacity: .7;
 }
-/* НЕ РАБОТАЕТ! */
 
 
 .services__content {
